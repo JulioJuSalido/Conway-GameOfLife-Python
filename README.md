@@ -3,6 +3,7 @@ Implementación del **Juego de la Vida de Conway** desarrollada en Python y ejec
 
 El programa permite colocar y eliminar células en un tablero de 80 × 80 y posteriormente iniciar las iteraciones para observar cómo evoluciona la población siguiendo las reglas del Juego de la Vida.
 
+<img width="640" height="667" alt="image" src="https://github.com/user-attachments/assets/93bd6828-fa46-4d2b-a431-89cea20f3d42" />
 
 ## Descripción
 El Juego de la Vida es un autómata celular creado por el matemático **John Horton Conway**. El estado de cada célula depende de las células que se encuentran a su alrededor.
